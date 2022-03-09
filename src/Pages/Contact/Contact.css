@@ -1,0 +1,15 @@
+.contact-info-inner{
+    width: 90%;
+    height: 90%;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 5px;
+    background-color: var(--main-light-color);
+    border: 0.5px solid var(--main-color);
+}
+
+.contact-info{
+    height: 300px;
+    display: flex;
+    align-items: center;
+}

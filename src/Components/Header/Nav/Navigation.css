@@ -1,0 +1,27 @@
+.nav-item{
+    text-decoration: none;
+    display: inline-block;
+    color: var(--forth-color);
+    padding: 5px 10px;
+    font-weight: 500;
+}
+
+
+.nav-item:hover{
+    color: var(--forth-color);
+}
+
+.nav-item-active{
+    background-color: var(--forth-color);
+    color: var(--main-color);
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+
+
+.nav{
+    padding: 0px;
+    background-color: var(--main-color);
+}

@@ -1,0 +1,8 @@
+.update-container{
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    height: 30px;
+    width: 100%;
+    text-align: right;
+}

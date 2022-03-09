@@ -1,0 +1,5 @@
+.activities-container{
+    border: 1px solid var(--main-color);
+    padding: 5px;
+    text-align: center;
+}
